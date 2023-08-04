@@ -76,7 +76,7 @@ Example commands:
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Live Demo
-See the project here: [Live demo will be available after approvment]()
+See the project here: <a href ="https://zel-hub7.github.io/javascript-group-capstone/dist/">Live Demo </a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
